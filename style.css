@@ -48,6 +48,18 @@ h2 {
     display: inline-block;
     margin-left: 20px;
 }
+#Projects {
+    width: auto;
+    height: auto;
+    border-style: solid;
+    padding: 25px;
+}
+img {
+  border-radius: 20px;
+  box-shadow: 20px 15px 15px rgb(192, 245, 209);
+
+}
+}
 nav a {
 text-align: center;
 font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
