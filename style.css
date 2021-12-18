@@ -10,7 +10,6 @@ body {
     min-height: 75vh;
     justify-content: flex-start;
   }
-
 header {
     padding: 20px;
     font-family:Georgia, 'Times New Roman', Times, serif;
@@ -58,6 +57,20 @@ h2 {
     margin-left: 20px;
 }
 #Projects {
+    width: auto;
+    height: auto;
+    border-style: solid;
+    padding: 25px;
+    border-radius: 20px;
+}
+#Contact {
+    width: auto;
+    height: auto;
+    border-style: solid;
+    padding: 25px;
+    border-radius: 20px;
+}
+#Resume {
     width: auto;
     height: auto;
     border-style: solid;
