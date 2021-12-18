@@ -16,6 +16,8 @@ header {
     font-family:Georgia, 'Times New Roman', Times, serif;
     background-color: rgb(15, 49, 15);
     color: #ffffff;
+    align-items: center;
+    justify-content: space-between;
 }
 header h1 {
         display: inline-block;
@@ -37,12 +39,30 @@ header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
+h2 {
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.content {
+    margin-right: 20px;
+    display: inline-block;
+    margin-left: 20px;
+}
 nav a {
 text-align: center;
 font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
 font-size: 25px;
 color: wheat;
 }
+
+nav ul {
+    display: flex;
+    justify-content: space-between;
+    min-width: 300px;
+  }
+  img {
+      object-fit: contain;
+  }
 
 .text-color {
     margin-bottom: 15px;
@@ -54,12 +74,13 @@ color: wheat;
 }
 .contact-info {
     text-align: center;
-    font-size: 220px;
+    font-size: 18px;
+    word-spacing: 50px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 @media screen and (max-width: 768px) {
-    nav a {
-      flex-direction: column;
+    header {
+        flex-direction: column;
     }
 }
 footer {
