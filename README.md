@@ -30,6 +30,10 @@ No instillation needed.
 
 ![image](https://user-images.githubusercontent.com/91674571/146793494-4fa6b93e-63f5-4971-9575-9a3cd9ad6bee.png)
 
+![second homework first gif](https://user-images.githubusercontent.com/91674571/146812375-0708ccd4-8ac2-409d-b56f-ab46001ff53a.gif)
+
+
+![second homework second gif](https://user-images.githubusercontent.com/91674571/146813544-3bad7343-0815-41c6-bbc1-627d381e5d08.gif)
 
 
 ## License
