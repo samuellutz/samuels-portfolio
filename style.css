@@ -77,9 +77,13 @@ h2 {
     padding: 25px;
     border-radius: 20px;
 }
-img {
+.links {
   border-radius: 30px;
   box-shadow: 10px 5px 15px rgb(192, 245, 209);
+}
+.resume {
+    width: auto;
+    height: auto;
 }
 nav a {
 text-align: center;
