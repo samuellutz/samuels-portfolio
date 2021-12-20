@@ -51,6 +51,18 @@ h2 {
     font-family: 'Times New Roman', Times, serif;
     border-radius: 20px;
 }
+.first {
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 30px;
+    text-align: center;
+}
+.second {
+    margin-left: 20%;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 30px;
+}
 .content {
     margin-right: 20px;
     display: inline-block;
