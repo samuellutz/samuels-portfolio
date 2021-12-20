@@ -28,6 +28,9 @@ No instillation needed.
 - [Link to Github](https://github.com/samuellutz)
 - [Link to LinkedIn](https://www.linkedin.com/in/samuel-lutz-77138020b/)
 
+![image](https://user-images.githubusercontent.com/91674571/146793494-4fa6b93e-63f5-4971-9575-9a3cd9ad6bee.png)
+
+
 
 ## License
 
