@@ -17,14 +17,14 @@ No instillation needed.
 
 ## Deployed Link
 
-* [https://samuellutz.github.io/second-homework/](#)
+https://samuellutz.github.io/samuels-portfolio/
 
 
 ## Authors
 
 * Samuel Lutz 
 
-- [https://samuellutz.github.io/second-homework/](#)
+- https://samuellutz.github.io/samuels-portfolio/(#)
 - [Link to Github](https://github.com/samuellutz)
 - [Link to LinkedIn](https://www.linkedin.com/in/samuel-lutz-77138020b/)
 
