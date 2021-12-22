@@ -24,7 +24,7 @@ https://samuellutz.github.io/samuels-portfolio/
 
 * Samuel Lutz 
 
-- https://samuellutz.github.io/samuels-portfolio/(#)
+- https://samuellutz.github.io/samuels-portfolio/
 - [Link to Github](https://github.com/samuellutz)
 - [Link to LinkedIn](https://www.linkedin.com/in/samuel-lutz-77138020b/)
 
